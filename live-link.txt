@@ -1,0 +1,10 @@
+Cloud Portfolio Live Deployment
+
+Live URL:
+https://nagireddyramyakrishna.github.io/cloud-portfolio/
+
+Platform:
+GitHub Pages
+
+Status:
+Active and working

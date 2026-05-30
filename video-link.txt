@@ -1,0 +1,14 @@
+DEMO VIDEOS - CLOUD PORTFOLIO PROJECT
+
+1. EC2 Linux Instance Setup Video
+(Shows AWS EC2 setup, Linux commands, and Nginx configuration)
+
+https://drive.google.com/file/d/1447i8AL5z70dK2e-aMsb6rFcgx5IO7MC/view?usp=sharing
+
+2. Portfolio Deployment Working Video
+(Shows final deployed portfolio running successfully in browser)
+
+https://drive.google.com/file/d/1kNH64sZKyIMxOHx2V5dtaXIxZsfgL7SI/view?usp=sharing
+
+Description:
+These videos demonstrate full end-to-end cloud deployment using AWS EC2, Nginx server, and GitHub-hosted portfolio.
